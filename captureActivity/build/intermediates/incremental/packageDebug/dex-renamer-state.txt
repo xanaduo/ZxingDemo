@@ -1,0 +1,7 @@
+#Mon Sep 19 18:03:40 GMT+08:00 2016
+base.0=D\:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_deec0920bf930097edaf62362854893474a8accb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6a820abd061ed39d8f1f5b30cb2d6100e3af2b4\\classes.dex
+base.1=D\:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f6a820abd061ed39d8f1f5b30cb2d6100e3af2b4
+file.0=D\:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_deec0920bf930097edaf62362854893474a8accb\\classes.dex

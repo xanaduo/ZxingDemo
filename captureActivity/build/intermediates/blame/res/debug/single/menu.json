@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\menu\\encode.xml"
+    }
+]

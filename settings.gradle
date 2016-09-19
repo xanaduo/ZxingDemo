@@ -1,0 +1,2 @@
+include ':zxingCore'
+include ':captureActivity'

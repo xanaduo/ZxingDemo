@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Xanthium_Studio\DEMO\ZxingDemo\zxingCore\src\main\assets"/><source path="D:\Xanthium_Studio\DEMO\ZxingDemo\zxingCore\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Xanthium_Studio\DEMO\ZxingDemo\zxingCore\src\debug\assets"/></dataSet></merger>

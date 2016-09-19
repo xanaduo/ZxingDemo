@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\shopper_icon.png",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\drawable\\shopper_icon.png"
+    },
+    {
+        "merged": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "D:\\Xanthium_Studio\\DEMO\\ZxingDemo\\captureActivity\\src\\main\\res\\drawable\\share_via_barcode.png"
+    }
+]

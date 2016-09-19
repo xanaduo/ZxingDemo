@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0-rc2"
+    timestamp="19993173794665"
+    token="8387550801091091302"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3728" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="16695" />
+    <task
+        name="verifier"
+        duration="1675" />
+
+    <artifact
+        location="D:\Xanthium_Studio\DEMO\ZxingDemo\captureActivity\build\outputs\apk\captureActivity-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="19993173794665"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Xanthium_Studio\DEMO\ZxingDemo\captureActivity\build\outputs\apk\captureActivity-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
